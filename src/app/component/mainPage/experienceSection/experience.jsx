@@ -22,17 +22,17 @@ export default function ExperienceSection() {
                                 </p>
                                 <ul className="mt-2 flex flex-wrap">
                                     <li className="mr-1.5 mt-2">
-                                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                                        <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                                             JavaScript
                                         </div>
                                     </li>
                                     <li className="mr-1.5 mt-2">
-                                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                                        <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                                             React
                                         </div>
                                     </li>
                                     <li className="mr-1.5 mt-2">
-                                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                                        <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                                             Gitlab
                                         </div>
                                     </li>
@@ -57,32 +57,32 @@ export default function ExperienceSection() {
                                 </p>
                                 <ul className="mt-2 flex flex-wrap">
                                     <li className="mr-1.5 mt-2">
-                                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                                        <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                                             JavaScript
                                         </div>
                                     </li>
                                     <li className="mr-1.5 mt-2">
-                                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                                        <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                                             PHP
                                         </div>
                                     </li>
                                     <li className="mr-1.5 mt-2">
-                                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                                        <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                                             Vue
                                         </div>
                                     </li>
                                     <li className="mr-1.5 mt-2">
-                                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                                        <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                                             React Native
                                         </div>
                                     </li>
                                     <li className="mr-1.5 mt-2">
-                                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                                        <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                                             Laravel
                                         </div>
                                     </li>
                                     <li className="mr-1.5 mt-2">
-                                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                                        <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                                             Gitlab
                                         </div>
                                     </li>
@@ -106,7 +106,7 @@ export default function ExperienceSection() {
                                 </p>
                                 <ul className="mt-2 flex flex-wrap">
                                     <li className="mr-1.5 mt-2">
-                                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                                        <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                                             PHP
                                         </div>
                                     </li>

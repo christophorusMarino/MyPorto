@@ -16,17 +16,17 @@ export default function ProjectSection() {
                                 <p className="mt-2 text-sm leading-normal"></p>
                                 <ul className="mt-2 flex flex-wrap">
                                     <li className="mr-1.5 mt-2">
-                                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                                        <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                                             Laravel
                                         </div>
                                     </li>
                                     <li className="mr-1.5 mt-2">
-                                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                                        <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                                             Vue 3
                                         </div>
                                     </li>
                                     <li className="mr-1.5 mt-2">
-                                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                                        <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                                             Github
                                         </div>
                                     </li>
@@ -48,17 +48,17 @@ export default function ProjectSection() {
                                 <p className="mt-2 text-sm leading-normal"></p>
                                 <ul className="mt-2 flex flex-wrap">
                                     <li className="mr-1.5 mt-2">
-                                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                                        <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                                             Laravel
                                         </div>
                                     </li>
                                     <li className="mr-1.5 mt-2">
-                                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                                        <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                                             Vue 2
                                         </div>
                                     </li>
                                     <li className="mr-1.5 mt-2">
-                                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                                        <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                                             MySql
                                         </div>
                                     </li>
@@ -80,12 +80,12 @@ export default function ProjectSection() {
                                 <p className="mt-2 text-sm leading-normal"></p>
                                 <ul className="mt-2 flex flex-wrap">
                                     <li className="mr-1.5 mt-2">
-                                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                                        <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                                             Laravel
                                         </div>
                                     </li>
                                     <li className="mr-1.5 mt-2">
-                                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                                        <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                                             Github
                                         </div>
                                     </li>
@@ -107,12 +107,12 @@ export default function ProjectSection() {
                                 <p className="mt-2 text-sm leading-normal"></p>
                                 <ul className="mt-2 flex flex-wrap">
                                     <li className="mr-1.5 mt-2">
-                                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                                        <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                                             Laravel
                                         </div>
                                     </li>
                                     <li className="mr-1.5 mt-2">
-                                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                                        <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                                             Github
                                         </div>
                                     </li>
@@ -134,17 +134,17 @@ export default function ProjectSection() {
                                 <p className="mt-2 text-sm leading-normal"></p>
                                 <ul className="mt-2 flex flex-wrap">
                                     <li className="mr-1.5 mt-2">
-                                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                                        <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                                             Laravel
                                         </div>
                                     </li>
                                     <li className="mr-1.5 mt-2">
-                                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                                        <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                                             Vue 2
                                         </div>
                                     </li>
                                     <li className="mr-1.5 mt-2">
-                                        <div class="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                                        <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                                             MySql
                                         </div>
                                     </li>

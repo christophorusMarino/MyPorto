@@ -6,7 +6,7 @@ export default function HeaderSection() {
             <div className="flex flex-col sm:flex-row items-center sm:items-start gap-6">
                 <Image
                     className="w-28 h-28 rounded-full shadow-md mr-3"
-                    src="/foto.jpg"
+                    src="/foto.webp"
                     alt="Christophorus D Marino"
                     width={28}
                     height={28}
