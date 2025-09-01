@@ -6,10 +6,20 @@ export default function AboutSection() {
             </div>
             <div>
                 <p className="mb-4">
-                    I’m a fullstack developer passionate about crafting fast, user-centric, and functional web application that provide
+                    I’m a <b>Fullstack Developer</b> passionate about crafting fast, user-centric, and design functional web application that provide
                     convenience to users and help their business.
                     My favorite work lies at the intersection of design and development,
                     creating experiences that not only look great but are meticulously built for performance and usability.
+                </p>
+                <p className="mb-4">
+                    Currently, I'm a Frontend Developer at CV.Arsa Radhika Teknologi. I contribute to the creation and maintenance of UI components, 
+                    ensuring out Hospital Management System suitable with user request and business.
+                </p>
+                <p className="mb-4">
+                    In the past, i've had oportunity as <b>Fullstack Developer</b> to develop web application across a variety of setting — from <b>large corporations</b> to <b>politician</b> and <b>repair workshop</b>.
+                </p>
+                <p className="mb-4">
+                    In my spare time, i'm usually hanging out with my wife and son, playing video game, and sing along with my guitar.
                 </p>
             </div>
         </>

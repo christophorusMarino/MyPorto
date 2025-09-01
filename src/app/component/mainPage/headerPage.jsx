@@ -5,12 +5,12 @@ export default function HeaderSection() {
         <header className="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-[48%] lg:flex-col lg:justify-between lg:py-24">
             <div className="flex flex-col sm:flex-row items-center sm:items-start gap-6">
                 <Image
-                    className="rounded-full shadow-md mr-0.5"
+                    className="w-24 h-auto rounded-full shadow-md mr-0.5"
                     src="/foto.webp"
                     alt="Christophorus D Marino"
                     width={110}
                     height={110}
-                    quality={100}
+                    unoptimized
                     priority
                 />
                 <div className="text-center sm:text-left">

@@ -11,9 +11,12 @@ export default function ProjectSection() {
                             <div className="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
                             <div className="z-10 sm:order-2 sm:col-span-6">
                                 <h3 className="font-medium leading-snug text-slate-200">
-                                    Digitalize HRD Document (Phase 2) · PT Central Proteina Prima
+                                    Digitalize HRD Document · PT Central Proteina Prima
                                 </h3>
-                                <p className="mt-2 text-sm leading-normal"></p>
+                                <p className="mt-2 text-sm leading-normal">
+                                    Develop internal HR application for manage employee promotions, including appointments/terminations, mutation, and pension.
+                                    This application helps HR Team, Supervisor, and Employee to monitor their current employment progress.
+                                </p>
                                 <ul className="mt-2 flex flex-wrap">
                                     <li className="mr-1.5 mt-2">
                                         <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
@@ -23,6 +26,11 @@ export default function ProjectSection() {
                                     <li className="mr-1.5 mt-2">
                                         <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
                                             Vue 3
+                                        </div>
+                                    </li>
+                                    <li className="mr-1.5 mt-2">
+                                        <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                                            MySql
                                         </div>
                                     </li>
                                     <li className="mr-1.5 mt-2">
@@ -43,9 +51,11 @@ export default function ProjectSection() {
                             <div className="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
                             <div className="z-10 sm:order-2 sm:col-span-6">
                                 <h3 className="font-medium leading-snug text-slate-200">
-                                    Aplikasi Tabulasi Caleg Pileg 2024 · Partai Amanat Nasional (PAN)
+                                    Siak Regent Election Tabulation · Candidate No. 3
                                 </h3>
-                                <p className="mt-2 text-sm leading-normal"></p>
+                                <p className="mt-2 text-sm leading-normal">
+                                    Develop web application to collect voting result at each polling station, and calculate to display in graphical form in real time.
+                                </p>
                                 <ul className="mt-2 flex flex-wrap">
                                     <li className="mr-1.5 mt-2">
                                         <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
@@ -75,9 +85,11 @@ export default function ProjectSection() {
                             <div className="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-slate-800/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(148,163,184,0.1)] lg:group-hover:drop-shadow-lg"></div>
                             <div className="z-10 sm:order-2 sm:col-span-6">
                                 <h3 className="font-medium leading-snug text-slate-200">
-                                    Digitalize HRD Document (Phase 1) · PT Central Proteina Prima
+                                    Legislative Candidate 2024 Riau Election · Partai Amanat Nasional (PAN)
                                 </h3>
-                                <p className="mt-2 text-sm leading-normal"></p>
+                                <p className="mt-2 text-sm leading-normal">
+                                    A team of three developed web application to calculate and tabulate the result of legislation election for all legislative candidate in Riau provincial electoral district.
+                                </p>
                                 <ul className="mt-2 flex flex-wrap">
                                     <li className="mr-1.5 mt-2">
                                         <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
@@ -86,7 +98,12 @@ export default function ProjectSection() {
                                     </li>
                                     <li className="mr-1.5 mt-2">
                                         <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
-                                            Github
+                                            Vue 2
+                                        </div>
+                                    </li>
+                                    <li className="mr-1.5 mt-2">
+                                        <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
+                                            MySql
                                         </div>
                                     </li>
                                 </ul>
@@ -104,7 +121,9 @@ export default function ProjectSection() {
                                 <h3 className="font-medium leading-snug text-slate-200">
                                     Auto Body Repair Management System · Vins Auto Body Repair
                                 </h3>
-                                <p className="mt-2 text-sm leading-normal"></p>
+                                <p className="mt-2 text-sm leading-normal">
+                                    Design database, develop frontend , and collaborate with backend to covering entire process of body repair workshop from registration vehicle, stock mutation, repairing process, and monthly report.
+                                </p>
                                 <ul className="mt-2 flex flex-wrap">
                                     <li className="mr-1.5 mt-2">
                                         <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
@@ -131,7 +150,9 @@ export default function ProjectSection() {
                                 <h3 className="font-medium leading-snug text-slate-200">
                                     Payroll Management System · PT. Central Pertiwi Bahari
                                 </h3>
-                                <p className="mt-2 text-sm leading-normal"></p>
+                                <p className="mt-2 text-sm leading-normal">
+                                    Develop payroll automatic calculation for outsourcing and contract employee, based on daily target and assigment task of each employee.
+                                </p>
                                 <ul className="mt-2 flex flex-wrap">
                                     <li className="mr-1.5 mt-2">
                                         <div className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-xs font-medium leading-5 text-teal-300 ">
