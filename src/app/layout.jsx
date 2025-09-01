@@ -14,6 +14,26 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Christophorus D. Marino",
   description: "My Portofolio",
+  icons: {
+    icon: "/star.png",
+    shortcut: "/star.png",
+  },
+  openGraph: {
+    title: "Christophorus D. Marino",
+    description: "My Portfolio Website",
+    url: "https://christophorus-marino-porto.vercel.app/",
+    siteName: "Christophorus D. Marino Portfolio",
+    images: [
+      {
+        url: "/foto.webp", // path gambar di public folder
+        width: 1200,
+        height: 630,
+        alt: "Thumbnail Christophorus D. Marino Portfolio",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
 };
 
 export default function RootLayout({ children }) {
