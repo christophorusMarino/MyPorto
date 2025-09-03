@@ -51,7 +51,7 @@ export default function HrDocsProject() {
                                 </span>
                             </div>
                             <div className="flex flex-col flex-1">
-                                <span>Clinet Location</span>
+                                <span>Client Location</span>
                                 <span className="font-medium text-slate-200">
                                     Jakarta
                                 </span>
