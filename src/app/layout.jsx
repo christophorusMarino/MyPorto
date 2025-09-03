@@ -12,7 +12,11 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Christophorus D. Marino",
+  metadataBase: new URL("https://christophorus-marino-porto.vercel.app"),
+  title: {
+    default: "Christophorus D. Marino",
+    template: "Christophorus D. Marino | %s"
+  },
   description: "My Portofolio",
   icons: {
     icon: "/star.png",
@@ -33,6 +37,12 @@ export const metadata = {
     ],
     locale: "en_US",
     type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Christophorus D. Marino",
+    description: "My Portfolio Website",
+    images: ["/foto.webp"],
   },
 };
 
