@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import { SquareArrowOutUpRight } from "lucide-react";
 
 export default function ProjectSection() {
     return (
@@ -15,7 +16,10 @@ export default function ProjectSection() {
                             <div className="z-10 sm:order-2 sm:col-span-6">
                                 <Link className="inline-flex items-baseline font-medium leading-tight text-slate-200 hover:text-teal-300 focus-visible:text-teal-300  group/link text-base" href="/hrdocs" rel="noreferrer noopener">
                                     <span className="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block"></span>
-                                    <span>Digitalize HRD Document · PT Central Proteina Prima</span>
+                                    <span className="inline-flex items-center gap-2">
+                                        Digitalize HRD Document · PT Central Proteina Prima
+                                        <SquareArrowOutUpRight size={15} className="transition-transform duration-300 ease-out group-hover:translate-x-1 group-hover:-translate-y-1" />
+                                    </span>
                                 </Link>
                                 <p className="mt-2 text-sm leading-normal">
                                     Develop internal HR application for manage employee promotions, including appointments/terminations, mutation, and pension.
